@@ -60,14 +60,14 @@
   // ===================================================
   // 列表样式
   // ===================================================
-  // 设置编号列表样式
+  // 有序列表
   set enum(indent: 2em)
 
-  // 设置无序列表样式
+  // 无序列表
   set list(indent: 2em)
 
   // ===================================================
-  // 数学公式: i-figured
+  // 数学公式
   // ===================================================
   import "@preview/i-figured:0.2.4"
   show math.equation: i-figured.show-equation.with(
@@ -117,7 +117,8 @@
     supplement: strong[图],
   )
   show figure.caption: strong
-
+  
+  // 三线表
   set table(
     stroke: (_, y) => (
       top: {
@@ -146,7 +147,6 @@
   // ===================================================
   // 封面页
   // ===================================================
-  // 大图标
   if only-logo {
     set page(
       margin: 0pt,
@@ -159,6 +159,7 @@
     }
   } else {
     if logo != none {
+      // 报告封面
       set image(width: 90%)
       set align(center + top)
       block(logo)
