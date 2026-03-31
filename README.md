@@ -14,18 +14,23 @@
 
 ## 模版效果速览
 
-### 实验报告封面
+### 论文&实验报告封面
 
-![Image](https://github.com/user-attachments/assets/5f0e3d53-994c-403e-8ec7-6a123a272754)
-
-### 论文报告封面
-
-![Image](https://github.com/user-attachments/assets/4a4f99a7-8f36-4b3e-b473-f21978c47751)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4a4f99a7-8f36-4b3e-b473-f21978c47751" width="45%">
+  <img src="https://github.com/user-attachments/assets/5f0e3d53-994c-403e-8ec7-6a123a272754" width="45%">
+</p>
 
 ### 内容
 
-![Image](https://github.com/user-attachments/assets/628237f2-b9ff-4b9d-9d2c-a1aca9df05b9)
-![Image](https://github.com/user-attachments/assets/58c98e9d-e0d2-45db-9cca-8fc1b869a002)
-![Image](https://github.com/user-attachments/assets/f7fa27c5-af1e-4905-a802-8d8fb5416d7f)
-![Image](https://github.com/user-attachments/assets/529554e2-d31c-4134-b358-9e5fed0c94b7)
-![Image](https://github.com/user-attachments/assets/c68f5759-9af2-4ba4-be44-7ac3b0455283)
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/628237f2-b9ff-4b9d-9d2c-a1aca9df05b9" width="45%">
+    <img src="https://github.com/user-attachments/assets/58c98e9d-e0d2-45db-9cca-8fc1b869a002" width="45%">
+</p>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/f7fa27c5-af1e-4905-a802-8d8fb5416d7f" width="45%">
+    <img src="https://github.com/user-attachments/assets/529554e2-d31c-4134-b358-9e5fed0c94b7" width="45%">
+</p>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/c68f5759-9af2-4ba4-be44-7ac3b0455283" width="45%">
+</p>
