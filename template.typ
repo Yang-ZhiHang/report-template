@@ -111,12 +111,14 @@
   // )
   show figure.where(kind: table): set figure.caption(position: top)
   show figure.where(kind: table): set figure(
-    supplement: strong[表],
+    // supplement: strong[表],
+    supplement: "表",
   )
   show figure.where(kind: image): set figure(
-    supplement: strong[图],
+    // supplement: strong[图],
+    supplement: "图",
   )
-  show figure.caption: strong
+  // show figure.caption: strong
   
   // 三线表
   set table(
